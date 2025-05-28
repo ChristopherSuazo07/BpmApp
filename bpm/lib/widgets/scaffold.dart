@@ -177,7 +177,7 @@ class _ScafoldState extends State<Scafold> with SingleTickerProviderStateMixin {
                         preventCurveOvershootingThreshold: 10,
                       ),
                     ],
-                    minY: 0,
+                    minY: 0, //Para poder visualizar el 0
                     maxY: 200,
                     clipData: const FlClipData.all(),
                     lineTouchData: const LineTouchData(enabled: false),
