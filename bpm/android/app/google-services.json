@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633541720963",
+    "project_id": "bpmapp-5dba1",
+    "storage_bucket": "bpmapp-5dba1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633541720963:android:913295968812db0313d4b6",
+        "android_client_info": {
+          "package_name": "com.example.bpm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRIJolL3FZ-0MnwMeCnos6u6gcOJ3hlBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
